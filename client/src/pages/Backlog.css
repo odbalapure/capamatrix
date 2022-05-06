@@ -1,0 +1,11 @@
+.issue-title-hover {
+  opacity: 0.9;
+  font-weight: 600;
+}
+
+.issue-title-hover:hover {
+  text-decoration: underline;
+  color: dodgerblue;
+  opacity: 1.0;
+  cursor: pointer;
+}
